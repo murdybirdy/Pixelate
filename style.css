@@ -15,3 +15,59 @@ body {
 }
 
 /* your CSS below! */
+
+td {
+  background-color: lightgray;
+  height: 50px;
+  width: 50px;
+}
+
+select, button {
+  height: 25px;
+  margin-bottom: 16px;
+}
+
+
+.aqua {
+  background-color: aqua;
+}
+
+.aquamarine {
+  background-color: aquamarine;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
